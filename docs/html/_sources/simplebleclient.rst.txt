@@ -1,0 +1,5 @@
+The ``SimpleBleClient`` class
+=============================
+
+.. autoclass:: simpleble.SimpleBleClient
+    :members:
