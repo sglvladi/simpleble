@@ -1,5 +1,5 @@
 # simpleble
-A high-level OO Python interface to Bluetooth LE on Linux environments
+A high-level OO Python interface to Bluetooth LE on Linux environments. Read the full docs on [ReadTheDocs](http://simpleble.readthedocs.io).
 
 Introduction
 ============

@@ -171,7 +171,7 @@ class SimpleBleClient(object):
     def searchDevice(self, name=None, mac=None, timeout=10.0):
         """Searches for and returns, given it exists, a :class:`simpleble.SimpleBleDevice` device objects, based on the provided ``name`` and/or ``mac`` address. If both a ``name`` and a ``mac`` are provided, then the client will only return a device that matches both conditions.
 
-        :param name: The "Complete Local Name" Generic Access Attribute (GATT) of the device, defaults to None
+        :par    am name: The "Complete Local Name" Generic Access Attribute (GATT) of the device, defaults to None
         :type name: str, optional
         :param mac: The MAC address of the device, defaults to None
         :type mac: str, optional

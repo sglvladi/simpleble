@@ -1,4 +1,4 @@
-Example Codes
+Examples
 =============
 
 Installation/Usage:
